@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *main - main block
- *Return: 0
+ *main - Prints size of various types on the computer
+ *Return: 0 (Success)
  */
 int main(void)
 {
