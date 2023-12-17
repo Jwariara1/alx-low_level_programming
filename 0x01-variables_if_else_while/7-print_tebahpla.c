@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-#include <stlib.h>
+#include <stdlib.h>
 /**
  * main - Entry point
  * Description: a program that prints the lowercase alphabet in reverse
