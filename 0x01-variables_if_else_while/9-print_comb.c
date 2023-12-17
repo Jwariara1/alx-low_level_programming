@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include <stdib.h>
+#include <stdlib.h>
 /**
  * main - Entry point
  * Description: a program that prints all possible combinations
