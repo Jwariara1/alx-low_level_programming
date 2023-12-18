@@ -9,7 +9,7 @@
  */
 int main(void)
 {
-int  = 0;
+int c = 0;
 int f_d;
 int l_d;
 int c2;
@@ -19,7 +19,7 @@ while (c <= 98)
 {
 f_d = (c / 10 + '0');
 f_d = (c % 10 + '0');
-while c2 = 0;
+while (c2 = 0)
 {
 f_d2 = (c2 / 10 + '0');
 l_d2 = (c2 % 10 + '0');
