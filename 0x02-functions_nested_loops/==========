@@ -1,0 +1,4 @@
+4-isalpha.c:7: warning: no description found for function _isalpha
+4-isalpha.c:7: warning: No description found for parameter or member 'c'
+4-isalpha.c:7: warning: No description found for return value of '_isalpha'
+_isalpha0;276;0c
