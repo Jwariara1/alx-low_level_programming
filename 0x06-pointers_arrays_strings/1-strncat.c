@@ -7,7 +7,7 @@
  * @n: number of characters to concatenate
  * Return: return to dest
  */
-char *_strncat(char *dest, char *src, int n);
+char *_strncat(char *dest, char *src, int n)
 {
 int i;
 int j;
