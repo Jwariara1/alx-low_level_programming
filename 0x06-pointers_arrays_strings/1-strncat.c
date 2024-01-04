@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * _strncat - a function that concatenates
- * n number of src to dest
+ * _strncat - a function that concatenates n
+ * number of src to dest
  * @dest: destination
  * @src: source
  * @n: number of characters to concatenate
