@@ -2,14 +2,14 @@
 /**
  * print_numbers - a function that prints the numbers, from 0 to 9
  * _putchar - prints out the function
- * Return: Always 0 
+ * Return: Always 0
  */
 void print_numbers(void)
 {
-	int c;
-	for (c =48; c < 58; c++)
-	{
-		_putchar(c);
-	}
-	_putchar('\n');
+int c;
+for (c = 48; c < 58; c++)
+{
+_putchar(c);
+}
+_putchar('\n');
 }
